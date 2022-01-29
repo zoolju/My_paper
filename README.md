@@ -5,9 +5,9 @@ A detailed description of all methods used in the paper are given in the methods
 
 All the data processing and model building code is based on matlab2014b， python3.7 and pytorch 1.01
 
-# Text_processing
+# Text
 codes for processing the text labels of images
-# fMRI_processing
+# fMRI
 codes for processing the fMRI data
 # model
 main codes of f-SGL
