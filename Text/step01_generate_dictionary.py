@@ -7,7 +7,7 @@ Created on Thu Sep 17 10:08:32 2020
 import numpy as np
 
 s = []
-in_file   = open('A:/f-SGL-master/data/label_2020.txt','r') #由于我使用的pycharm已经设置完了路径，因此我直接写了文件名
+in_file   = open('A:/f-SGL-master/data/label_2020.txt','r') 
 out_file  = open('A:/f-SGL-master/data/label_2020_30.txt','w',encoding='utf-8')
 out_file1 = open('A:/f-SGL-master/data/label_2020_30_dict.txt','w',encoding='utf-8')
 count = 1
